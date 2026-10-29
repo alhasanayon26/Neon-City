@@ -1,4 +1,3 @@
-::: {align="center"}
 # 🌆 NEON CITY
 
 ### 🚗 Explore. Drive. Survive. Build Your City Story.
@@ -585,11 +584,10 @@ project-specific credits.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 ### 🌆 Welcome to Neon City
 Developed by Rifaat Al Hasan Ayon
 Software Engineering student
 Daffodil International University
 
 **Start your engine. Find your route. Make the city yours.** 🚗💨
-:::
